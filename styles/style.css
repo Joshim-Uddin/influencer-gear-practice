@@ -170,6 +170,9 @@ nav ul{
     gap: 50px;
     padding: 2rem 8rem;
 }
+.featured img{
+    width: 100%;
+}
 .feature-info{
     display: flex;
     flex-direction: column;
