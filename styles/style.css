@@ -156,6 +156,9 @@ nav ul{
 .fa-star{
     color: var(--starColor);
 }
+.custom{
+    color: var(--starColor);
+}
 .see-more{
     color: var(--hotPink);
     position: absolute;
